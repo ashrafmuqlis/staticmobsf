@@ -16,7 +16,7 @@ sudo bash ./run.sh
 curl http://localhost:8000
 ```
 
-## Check <server-ip>
+## Check "server-ip"
 ```
 hostname -I
 ```
